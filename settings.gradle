@@ -1,4 +1,6 @@
 rootProject.name = 'spring-integration-samples'
+rootProject.name = 'spring-integration-samples'
+rootProject.name = 'spring-integration-samples'
 
 ['advanced', 'applications', 'basic', 'intermediate', 'dsl'].each {
 	def projectDir = new File(rootDir, it)
