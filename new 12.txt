@@ -1,0 +1,3 @@
+nnnnnnnnnn (12-1) --- > not working checkin 
+
+same branch name as like in github -- > both check in and pull by merge was working
