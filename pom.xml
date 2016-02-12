@@ -9,7 +9,7 @@
 	<name>Spring Integration Samples Root</name>
 	<url>http://www.springsource.org/spring-integration</url>
 	<packaging>pom</packaging>
-
+<!-- added prerequisites -->
 	<prerequisites>
 		<maven>2.2.1</maven>
 	</prerequisites>
